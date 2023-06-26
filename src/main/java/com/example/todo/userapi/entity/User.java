@@ -39,6 +39,7 @@ public class User {
     @ColumnDefault("'COMMON'")
     private Role role; //유저 권한
 
+
 }
 
 
